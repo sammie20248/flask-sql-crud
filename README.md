@@ -1,11 +1,10 @@
 # flask-crud-application-
-## Screenshot
 
-![Application Screenshot]()
 ## Features
 
 - Create, Read, Update, and Delete (CRUD) operations.
-- Built with Flask and SQLAlchemy.
+- Simple and intuitive user interface.
+
 - Simple and intuitive user interface.
 
 ## Installation
